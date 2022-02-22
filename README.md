@@ -1,4 +1,4 @@
-<h3>In Just 5 Step to install Mac OS X in windows and linux </h3>(VMWARE Both (Workstaiton/Player))(**No Need to close The WSL or Hyper-V**)
+<h3>In Just 5 Step to install Mac OS X in windows and linux </h3>(VMWARE Both (Workstaiton/Player))(**No Need to close The WSL or Hyper-V**)<br>
 Raise a issue if found with log file and *.vmw 
 
 1:- Download  Mac OS image (macOS Big Sur 11.0.1 (20B29)) and Vmware Player or Workstation :- 
