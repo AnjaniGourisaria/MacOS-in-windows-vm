@@ -59,6 +59,9 @@ Change the Cpu cores  as per your requiements<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 If you are facing the same error message after saving the changes, then change  **‘featureCompat.enable =’**  entry to  **“TRUE**.**”**  After that, remove the  **‘cpuid.ss’**  and  **‘wcpuid.ds’**  entries from the enabled features. Plus, change the value of  **‘cpuid.1.edx’**  line to  **‘**  **“0000:0111:1000:1011:1111:1011:1111:1111”**  .**’**
 
+3:- Run The Machine 
+4:- After Successful Installtion of Machine install the vm-tool for the MacOS Machine
+
 
 
 WHY?: VMWARE-unlocker  
@@ -68,4 +71,7 @@ The patch code carries out the following modifications dependent on the product 
 -   Fix vmwarebase .dll or .so to allow Apple to be selected during VM creation
 -   Download a copy of the latest VMware Tools for macOS
 
+REF: 
+
+    https://computerverge.com/the-cpu-has-been-disabled-by-the-guest-operating-system-explained-and-fixed/
 
