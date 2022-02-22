@@ -11,23 +11,23 @@ Tested: MacOS Mojave:
 Not Tested: MacOS Catalina:
 
 		https://bit.ly/3v9QAbm
-<pre>
+
 2:Install The Unlocker (**Warning:Make Sure to close all services of VMWARE using task manger and turn off antivirus**)
-</pre>
+
    **Note: Unlocker 3 is designed for VMware Workstation 11-16 and Player 7-16.**
    
-		git clone https://github.com/AnjaniGourisaria/VMWARE-unlocker 
-<pre>
+	git clone https://github.com/AnjaniGourisaria/VMWARE-unlocker 
+
    1:After Git clone and install Python 2.7 or later:
           Run (Windows):
-</pre>	
-<pre>
+	
+
 				 Inside The VMWARE-unlocker folder/dir (Run as Administration): 
 				 win-install.cmd
-</pre>
-<pre>
+
+
 		  Run (Linux):
-</pre>
+
 				./lnx-install.sh
 3: Change the double Quotation mark("") Please Insert This End of FIle
 		
