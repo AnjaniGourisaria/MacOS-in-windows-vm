@@ -23,12 +23,28 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run (Windows):<br>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inside The VMWARE-unlocker folder/dir (Run as Administration):  win-install.cmd  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inside The VMWARE-unlocker folder/dir (Run as Administration):  **win-install.cmd**  <br>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run (Linux):
 
-                               	./lnx-install.sh
-3: Change the double Quotation mark("") Please Insert This End of FIle
+                   				./lnx-install.sh
+Step 1:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/image.png?raw=true)
+Step 2:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041554.png?raw=true)
+Step 3:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041657.png?raw=true)
+Step 4:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041739.png?raw=true)
+Step 5:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041902.png?raw=true)
+Step 6:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20042017.png?raw=true)
+Step 7:
+Change the Cpu cores  as per your requiements
+Step 8:
+![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20042254.png?raw=true)
+3: Change the double Quotation mark("") **FIle is given in step 8 red line Please Insert This End of FIle(Inside The *.vmx)**
 
 		smc.version = 0
 		cpuid.0.eax = "0000:0000:0000:0000:0000:0000:0000:1011"
