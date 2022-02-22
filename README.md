@@ -28,21 +28,21 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Run (Linux):
 
                    				./lnx-install.sh
-Step 1:<br>
+ - Step 1:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/image.png?raw=true)<br>
-Step 2:<br>
+ - Step 2:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041554.png?raw=true)<br>
-Step 3:<br>
+ - Step 3:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041657.png?raw=true)<br>
-Step 4:<br>
+ - Step 4:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041739.png?raw=true)<br>
-Step 5:<br>
+ - Step 5:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20041902.png?raw=true)<br>
-Step 6:<br>
+ - Step 6:<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20042017.png?raw=true)<br>
-Step 7:<br>
+ - Step 7:<br>
 Change the Cpu cores  as per your requiements<br>
-Step 8:<br>
+ - Step 8:**SEE THE IMAGE CAREFULLY Under the directory you will found the *.vmx**<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20042254.png?raw=true)<br>
 3: Change the double Quotation mark("") **FIle is given in step 8 red line Please Insert This End of FIle(Inside The *.vmx)**
 
