@@ -13,7 +13,6 @@ Not Tested: MacOS Catalina:
 		https://bit.ly/3v9QAbm
 
 <pre>
-
 2:Install The Unlocker (**Warning:Make Sure to close all services of VMWARE using task manger and turn off antivirus** )
 </pre>
    **Note: Unlocker 3 is designed for VMware Workstation 11-16 and Player 7-16.**
