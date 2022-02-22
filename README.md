@@ -59,8 +59,8 @@ Change the Cpu cores  as per your requiements<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 If you are facing the same error message after saving the changes, then change  **‘featureCompat.enable =’**  entry to  **“TRUE**.**”**  After that, remove the  **‘cpuid.ss’**  and  **‘wcpuid.ds’**  entries from the enabled features. Plus, change the value of  **‘cpuid.1.edx’**  line to  **‘**  **“0000:0111:1000:1011:1111:1011:1111:1111”**  .**’**
 
-3:- Run The Machine 
-4:- After Successful Installtion of Machine install the vm-tool for the MacOS Machine
+3:- Run The Machine <br>
+4:- After Successful Installtion of Machine install the vm-tool for the MacOS Machine(Optional) <br>
 
 
 
