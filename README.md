@@ -10,7 +10,7 @@ Tested: MacOS Mojave:
 		https://bit.ly/3Hdl52H
 Not Tested: MacOS Catalina:
 
-	    https://bit.ly/3v9QAbm
+	        https://bit.ly/3v9QAbm
 	  
 
 
