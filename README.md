@@ -1,4 +1,4 @@
-<h3>In Just 5 Step to install Mac OS X in windows and linux </h3>(VMWARE/Virtual BOx Both (Workstaiton/Player))(**No Need to close The WSL or Hyper-V**)<br>
+<h3>In Just 5 Step to install Mac OS X in windows and linux </h3>(**VMWARE**/**Virtual Box** Both (Workstaiton/Player))(**No Need to close The WSL or Hyper-V**)<br>
 Raise a issue if found with log file and *.vmw 
 
 1:- Download  Mac OS image (macOS Big Sur 11.0.1 (20B29)) and Vmware Player or Workstation :- 
@@ -45,7 +45,7 @@ Raise a issue if found with log file and *.vmw
 Change the Cpu cores  as per your requiements<br>
  - Step 8:**SEE THE IMAGE CAREFULLY Under the directory you will found the *.vmx**<br>
 ![image description](https://github.com/AnjaniGourisaria/MacOS-in-windows-vm/blob/main/MacOS%20Installation/Screenshot%202022-02-23%20042254.png?raw=true)<br>
-3: Change the double Quotation mark("") **FIle is given in step 8 red line Please Insert This End of FIle(Inside The *.vmx)**
+3: (Optional Run the Mac if not working follows steps below)Change the double Quotation mark("") **FIle is given in step 8 red line Please Insert This End of FIle(Inside The *.vmx)**
 
 		smc.version = 0
 		cpuid.0.eax = "0000:0000:0000:0000:0000:0000:0000:1011"
